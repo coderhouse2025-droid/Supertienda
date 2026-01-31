@@ -1,2 +1,2 @@
-# SUPERTIENDA
+# Supertienda
 Análisis de datos y modelado predictivo para Supertienda LatAm. El proyecto abarca desde la exploración de datos (EDA) hasta la implementación de un modelo de Machine Learning diseñado para predecir comportamientos operativos y tendencias de venta. Desarrollado íntegramente en Python, utilizando Pandas y NumPy para el procesamiento de datos, Scikit-Learn para el modelado predictivo, y Matplotlib/Seaborn para la visualización de insights estratégicos
