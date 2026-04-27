@@ -95,16 +95,6 @@ Clasificador que estima la probabilidad de alta rentabilidad por cliente, combin
 
 ---
 
-## ▶️ Cómo ejecutar
-
-1. 📥 Abrir `Supertienda (Final).ipynb` en Google Colab
-2. 🔗 Montar Google Drive cuando se solicite
-3. ⬇️ El notebook descarga automáticamente el dataset con `gdown`
-4. ▶️ Ejecutar los ejes en orden (Eje 1 → 5), ya que cada uno alimenta al siguiente
-5. 📊 Los gráficos interactivos se renderizan con Plotly dentro de Colab
-
----
-
 ## 📁 Archivos del repositorio
 
 | Archivo | Descripción |
