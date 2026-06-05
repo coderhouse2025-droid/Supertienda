@@ -2,7 +2,7 @@
 
 # 🛒 Supertienda — Análisis de Ventas en Latinoamérica (2019–2023)
 
-> 📊 Pipeline completo de Data Science: desde un dataset sucio hasta un modelo integrador de Machine Learning sobre 11.964 transacciones retail en 22 países de LatAm.
+> 📊 Pipeline completo de Data Science: desde un dataset con datos crudos hasta un modelo integrador de Machine Learning sobre 11.964 transacciones retail en 22 países de LatAm.
 
 ---
 
