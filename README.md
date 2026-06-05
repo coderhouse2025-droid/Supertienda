@@ -185,7 +185,7 @@ Cada decisión de limpieza tuvo una razón de negocio explícita:
 
 ## 👤 Autor
 
-Proyecto desarrollado como trabajo final de **Data Science II — Coderhouse 2025**.
+Proyecto desarrollado como trabajo final de **Data Science  I y II — Coderhouse 2025**.
 
 ---
 
